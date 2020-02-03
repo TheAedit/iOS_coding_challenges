@@ -7,13 +7,12 @@
 - Duration: 60-120 minutes
 - Use Swift
 - Use third party libraries when necessary
+- Use at least 2 view controllers
 - You will be given detailed spec (end point and responses, etc) in person
 - Required fields
   - First name
   - Last name
   - Email
   - Password
-  - Gender
-  - Birth Year
 
 Feel free to ask any questions.
