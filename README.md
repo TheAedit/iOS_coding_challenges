@@ -4,6 +4,12 @@
 
 ### Instructions
 
+1. clone this repository
+2. create a branch with your name
+3. start coding
+4. once done, create a pull request
+
+### Rules
 - Duration: 60-90 minutes
 - Use Swift
 - Use third party libraries when necessary
