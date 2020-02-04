@@ -4,7 +4,7 @@
 
 ### Instructions
 
-- Duration: 60-120 minutes
+- Duration: 60-90 minutes
 - Use Swift
 - Use third party libraries when necessary
 - Use at least 2 view controllers
