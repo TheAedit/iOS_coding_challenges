@@ -14,6 +14,6 @@
 - Use Swift
 - Use third party libraries when necessary
 - Use at least 2 view controllers
-- You will be given detailed spec (end point and responses, etc) in person
+- You will be given detailed spec (endpoint and responses, etc) in person
 - Feel free to search
 - Feel free to ask any questions
