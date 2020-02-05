@@ -15,10 +15,5 @@
 - Use third party libraries when necessary
 - Use at least 2 view controllers
 - You will be given detailed spec (end point and responses, etc) in person
-- Required fields
-  - First name
-  - Last name
-  - Email
-  - Password
-
-Feel free to ask any questions.
+- Feel free to search
+- Feel free to ask any questions
