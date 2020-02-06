@@ -10,7 +10,7 @@
 4. once done, create a pull request
 
 ### Rules
-- Duration: 60-90 minutes
+- Duration: 60 minutes
 - Use Swift
 - Use third party libraries when necessary
 - Use at least 2 view controllers
